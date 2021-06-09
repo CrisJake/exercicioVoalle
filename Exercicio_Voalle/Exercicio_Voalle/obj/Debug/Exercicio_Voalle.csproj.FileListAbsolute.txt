@@ -1,0 +1,7 @@
+C:\Users\crist\Desktop\exercicio_voalle\Exercicio_Voalle\Exercicio_Voalle\bin\Debug\Exercicio_Voalle.exe.config
+C:\Users\crist\Desktop\exercicio_voalle\Exercicio_Voalle\Exercicio_Voalle\bin\Debug\Exercicio_Voalle.exe
+C:\Users\crist\Desktop\exercicio_voalle\Exercicio_Voalle\Exercicio_Voalle\bin\Debug\Exercicio_Voalle.pdb
+C:\Users\crist\Desktop\exercicio_voalle\Exercicio_Voalle\Exercicio_Voalle\obj\Debug\Exercicio_Voalle.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\exercicio_voalle\Exercicio_Voalle\Exercicio_Voalle\obj\Debug\Exercicio_Voalle.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\exercicio_voalle\Exercicio_Voalle\Exercicio_Voalle\obj\Debug\Exercicio_Voalle.exe
+C:\Users\crist\Desktop\exercicio_voalle\Exercicio_Voalle\Exercicio_Voalle\obj\Debug\Exercicio_Voalle.pdb
