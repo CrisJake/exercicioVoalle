@@ -1,0 +1,13 @@
+C:\Users\crist\Desktop\exercicio_voalle\ExercicioVoalle\ExercicioVoalle\bin\Debug\netcoreapp3.1\ExercicioVoalle.exe
+C:\Users\crist\Desktop\exercicio_voalle\ExercicioVoalle\ExercicioVoalle\bin\Debug\netcoreapp3.1\ExercicioVoalle.deps.json
+C:\Users\crist\Desktop\exercicio_voalle\ExercicioVoalle\ExercicioVoalle\bin\Debug\netcoreapp3.1\ExercicioVoalle.runtimeconfig.json
+C:\Users\crist\Desktop\exercicio_voalle\ExercicioVoalle\ExercicioVoalle\bin\Debug\netcoreapp3.1\ExercicioVoalle.runtimeconfig.dev.json
+C:\Users\crist\Desktop\exercicio_voalle\ExercicioVoalle\ExercicioVoalle\bin\Debug\netcoreapp3.1\ExercicioVoalle.dll
+C:\Users\crist\Desktop\exercicio_voalle\ExercicioVoalle\ExercicioVoalle\bin\Debug\netcoreapp3.1\ExercicioVoalle.pdb
+C:\Users\crist\Desktop\exercicio_voalle\ExercicioVoalle\ExercicioVoalle\obj\Debug\netcoreapp3.1\ExercicioVoalle.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\exercicio_voalle\ExercicioVoalle\ExercicioVoalle\obj\Debug\netcoreapp3.1\ExercicioVoalle.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\exercicio_voalle\ExercicioVoalle\ExercicioVoalle\obj\Debug\netcoreapp3.1\ExercicioVoalle.AssemblyInfo.cs
+C:\Users\crist\Desktop\exercicio_voalle\ExercicioVoalle\ExercicioVoalle\obj\Debug\netcoreapp3.1\ExercicioVoalle.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\exercicio_voalle\ExercicioVoalle\ExercicioVoalle\obj\Debug\netcoreapp3.1\ExercicioVoalle.dll
+C:\Users\crist\Desktop\exercicio_voalle\ExercicioVoalle\ExercicioVoalle\obj\Debug\netcoreapp3.1\ExercicioVoalle.pdb
+C:\Users\crist\Desktop\exercicio_voalle\ExercicioVoalle\ExercicioVoalle\obj\Debug\netcoreapp3.1\ExercicioVoalle.genruntimeconfig.cache

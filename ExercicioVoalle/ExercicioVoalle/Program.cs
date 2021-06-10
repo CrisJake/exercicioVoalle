@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Exercicio_Voalle
+namespace ExercicioVoalle
 {
     class Program
     {
@@ -83,10 +79,10 @@ namespace Exercicio_Voalle
             Console.WriteLine("Marcha: " + marcha);
 
             Console.WriteLine("\n\n\nDigite X para aumentar a velocidade");
-            Console.WriteLine("\nDigite Z para diminuir a velocidade");
-            Console.WriteLine("\nDigite C para aumentar a marcha");
-            Console.WriteLine("\nDigite V para diminuir a marcha");
-            Console.WriteLine("\nDigite Esc para fechar o programa");
+            Console.WriteLine("Digite Z para diminuir a velocidade");
+            Console.WriteLine("Digite C para aumentar a marcha");
+            Console.WriteLine("Digite V para diminuir a marcha");
+            Console.WriteLine("Digite Esc para fechar o programa");
 
         }
         int aumenta_velocidade(int velocidade, int marcha)
